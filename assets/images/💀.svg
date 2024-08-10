@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 36 36">
+<title>💀: skull (U+1F480) - emojiall.com</title>
+<style>svg{stroke:#edf2f6;animation:dashoffset 10s both infinite,fill-opacity 10s both infinite,stroke-opacity 10s both infinite;stroke-dasharray:500%;stroke-dashoffset:500%}@keyframes stroke-opacity{2%,25%{stroke-opacity:.75;stroke-width:2%}100%,75%{stroke-opacity:0;stroke-width:0}}@keyframes fill-opacity{10%,25%{fill-opacity:0}0%,100%,50%{fill-opacity:1}}@keyframes dashoffset{0%,2%{stroke-dashoffset:500%}100%{stroke-dashoffset:0%}}</style>
+<path fill="#CCD6DD" d="M34 16C34 6 26.837 0 18 0 9.164 0 2 6 2 16c0 5.574.002 10.388 6 12.64V33c0 1.657 1.343 3 3 3s3-1.343 3-3v-3.155c.324.027.659.05 1 .07V33c0 1.657 1.343 3 3 3s3-1.343 3-3v-3.085c.342-.021.676-.043 1-.07V33c0 1.657 1.344 3 3 3 1.657 0 3-1.343 3-3v-4.36c5.998-2.252 6-7.066 6-12.64z"/>
+<circle fill="#292F33" cx="11" cy="14" r="5"/>
+<circle fill="#292F33" cx="25" cy="14" r="5"/>
+<path fill="#292F33" d="M19.903 23.062C19.651 22.449 18.9 22 18 22s-1.652.449-1.903 1.062c-.632.176-1.097.75-1.097 1.438 0 .828.671 1.5 1.5 1.5.655 0 1.206-.422 1.41-1.007.03.001.059.007.09.007s.06-.006.09-.007c.205.585.756 1.007 1.41 1.007.828 0 1.5-.672 1.5-1.5 0-.688-.466-1.261-1.097-1.438z"/>
+<a xlink:href="https://www.emojiall.com/en/emoji/%F0%9F%92%80"><text x="36" y="34" font-size="1px" fill="#888da8" text-anchor="end" font-family="apple color emoji,segoe ui emoji,noto color emoji,android emoji,emojisymbols,emojione mozilla,twemoji mozilla,segoe ui symbol,Noto Color Emoji Compat,emoji,sans-serif">💀</text></a>
+<a xlink:href="https://www.emojiall.com/"><text x="36" y="35" font-size="0.8px" fill="#888da8" text-anchor="end"><title>www.emojiall.com</title>emojiall.com</text></a>
+</svg>
